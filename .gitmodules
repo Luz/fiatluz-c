@@ -1,0 +1,3 @@
+[submodule "fiatluz"]
+	path = fiatluz
+	url = ssh://github.com/Luz/fiatluz
